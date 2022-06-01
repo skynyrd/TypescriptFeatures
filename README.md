@@ -30,7 +30,7 @@ A set of small scripts highlighting Typescript features. (v4.6)
 1. [Non Null Assertions](src/intermediate/nonNullAssertions.ts) 
 1. [Interfaces vs Types](src/intermediate/interfacesVsTypes.ts) 
 
-## Advanced
+### Advanced
 
 1. [Assertion Functions](src/advanced/assertionFunctions.ts)
 1. [Const Assertions](src/advanced/constAssertions.ts)
@@ -42,3 +42,15 @@ A set of small scripts highlighting Typescript features. (v4.6)
 1. [Function Overloading](src/advanced/functionOverloading.ts)
 1. [Generic Constraints](src/advanced/genericconstraints.ts)
 1. [Index Signatures](src/advanced/indexSignatures.ts)
+1. [Readonly Arrays](src/advanced/readonlyArrays.ts)
+1. [This as a Function Parameter](src/advanced/thisParam.ts)
+1. [User Defined Type Guards](src/advanced/userDefinedTypeGuards.ts)
+
+
+### Expert
+
+1. [typeof Type](src/expert/typeOfType.ts)
+1. [Lookup Types](src/expert/lookupTypes.ts)
+1. [keyof Type](src/expert/keyofType.ts)
+1. [Conditional Types](src/expert/conditionalTypes.ts)
+1. [Conditional Types with Unions and never](src/expert/conditionalTypesWithUnionsAndNever.ts)
