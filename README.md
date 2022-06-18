@@ -29,6 +29,10 @@ A set of small scripts highlighting Typescript features. (v4.6)
 1. [Never](src/intermediate/never.ts) 
 1. [Non Null Assertions](src/intermediate/nonNullAssertions.ts) 
 1. [Interfaces vs Types](src/intermediate/interfacesVsTypes.ts) 
+1. [Partial](src/intermediate/partial.ts)
+1. [Required](src/intermediate/required.ts)
+1. [Readonly](src/intermediate/readonly.ts)
+1. [Record](src/intermediate/record.ts)
 
 ### Advanced
 
